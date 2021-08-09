@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/the-food-order-app/static/css/main.6ad2ef19.chunk.css",
-    "main.js": "/the-food-order-app/static/js/main.4ed9e01f.chunk.js",
-    "main.js.map": "/the-food-order-app/static/js/main.4ed9e01f.chunk.js.map",
-    "runtime-main.js": "/the-food-order-app/static/js/runtime-main.1970db4b.js",
-    "runtime-main.js.map": "/the-food-order-app/static/js/runtime-main.1970db4b.js.map",
-    "static/js/2.6926f8cd.chunk.js": "/the-food-order-app/static/js/2.6926f8cd.chunk.js",
-    "static/js/2.6926f8cd.chunk.js.map": "/the-food-order-app/static/js/2.6926f8cd.chunk.js.map",
-    "static/js/3.e9f281bb.chunk.js": "/the-food-order-app/static/js/3.e9f281bb.chunk.js",
-    "static/js/3.e9f281bb.chunk.js.map": "/the-food-order-app/static/js/3.e9f281bb.chunk.js.map",
+    "main.css": "/the-food-order-app/static/css/main.e2571627.chunk.css",
+    "main.js": "/the-food-order-app/static/js/main.cf3545c1.chunk.js",
+    "main.js.map": "/the-food-order-app/static/js/main.cf3545c1.chunk.js.map",
+    "runtime-main.js": "/the-food-order-app/static/js/runtime-main.a70ee316.js",
+    "runtime-main.js.map": "/the-food-order-app/static/js/runtime-main.a70ee316.js.map",
+    "static/js/2.d22bea79.chunk.js": "/the-food-order-app/static/js/2.d22bea79.chunk.js",
+    "static/js/2.d22bea79.chunk.js.map": "/the-food-order-app/static/js/2.d22bea79.chunk.js.map",
+    "static/js/3.48a7ef5c.chunk.js": "/the-food-order-app/static/js/3.48a7ef5c.chunk.js",
+    "static/js/3.48a7ef5c.chunk.js.map": "/the-food-order-app/static/js/3.48a7ef5c.chunk.js.map",
     "index.html": "/the-food-order-app/index.html",
-    "static/css/main.6ad2ef19.chunk.css.map": "/the-food-order-app/static/css/main.6ad2ef19.chunk.css.map",
-    "static/js/2.6926f8cd.chunk.js.LICENSE.txt": "/the-food-order-app/static/js/2.6926f8cd.chunk.js.LICENSE.txt",
+    "static/css/main.e2571627.chunk.css.map": "/the-food-order-app/static/css/main.e2571627.chunk.css.map",
+    "static/js/2.d22bea79.chunk.js.LICENSE.txt": "/the-food-order-app/static/js/2.d22bea79.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/the-food-order-app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1970db4b.js",
-    "static/js/2.6926f8cd.chunk.js",
-    "static/css/main.6ad2ef19.chunk.css",
-    "static/js/main.4ed9e01f.chunk.js"
+    "static/js/runtime-main.a70ee316.js",
+    "static/js/2.d22bea79.chunk.js",
+    "static/css/main.e2571627.chunk.css",
+    "static/js/main.cf3545c1.chunk.js"
   ]
 }
